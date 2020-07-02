@@ -1,0 +1,11 @@
+.\co_gpio_iic_2.o: ..\..\components\co_gpio_iic_2.c
+.\co_gpio_iic_2.o: ..\..\components\./co_gpio_iic_2.h
+.\co_gpio_iic_2.o: ..\..\components\././os/os_config.h
+.\co_gpio_iic_2.o: ..\..\components\././os/../../includes/_sys_std.h
+.\co_gpio_iic_2.o: ..\..\components\././os/../../includes/./_addr_defined.h
+.\co_gpio_iic_2.o: ..\..\components\././os/../os/os_task.h
+.\co_gpio_iic_2.o: ..\..\components\././os/../os/os_heap.h
+.\co_gpio_iic_2.o: ..\..\components\././os/../os/os_fifo.h
+.\co_gpio_iic_2.o: ..\..\components\././os/../os/os_simlist.h
+.\co_gpio_iic_2.o: ..\..\components\././os/../os/os_ipc_msg.h
+.\co_gpio_iic_2.o: ..\..\components\././os/../os/os_timer.h

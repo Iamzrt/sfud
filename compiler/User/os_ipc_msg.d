@@ -1,0 +1,10 @@
+.\os_ipc_msg.o: ..\..\components\os\os_ipc_msg.c
+.\os_ipc_msg.o: ..\..\components\os\./os_config.h
+.\os_ipc_msg.o: ..\..\components\os\./../../includes/_sys_std.h
+.\os_ipc_msg.o: ..\..\components\os\./../../includes/./_addr_defined.h
+.\os_ipc_msg.o: ..\..\components\os\./../os/os_task.h
+.\os_ipc_msg.o: ..\..\components\os\./../os/os_heap.h
+.\os_ipc_msg.o: ..\..\components\os\./../os/os_fifo.h
+.\os_ipc_msg.o: ..\..\components\os\./../os/os_simlist.h
+.\os_ipc_msg.o: ..\..\components\os\./../os/os_ipc_msg.h
+.\os_ipc_msg.o: ..\..\components\os\./../os/os_timer.h

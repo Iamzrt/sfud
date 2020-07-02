@@ -1,0 +1,11 @@
+.\co_packet.o: ..\..\components\co_packet.c
+.\co_packet.o: ..\..\components\./co_packet.h
+.\co_packet.o: ..\..\components\././os/os_config.h
+.\co_packet.o: ..\..\components\././os/../../includes/_sys_std.h
+.\co_packet.o: ..\..\components\././os/../../includes/./_addr_defined.h
+.\co_packet.o: ..\..\components\././os/../os/os_task.h
+.\co_packet.o: ..\..\components\././os/../os/os_heap.h
+.\co_packet.o: ..\..\components\././os/../os/os_fifo.h
+.\co_packet.o: ..\..\components\././os/../os/os_simlist.h
+.\co_packet.o: ..\..\components\././os/../os/os_ipc_msg.h
+.\co_packet.o: ..\..\components\././os/../os/os_timer.h

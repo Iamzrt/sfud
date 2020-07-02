@@ -1,0 +1,10 @@
+.\os_fifo.o: ..\..\components\os\os_fifo.c
+.\os_fifo.o: ..\..\components\os\./os_config.h
+.\os_fifo.o: ..\..\components\os\./../../includes/_sys_std.h
+.\os_fifo.o: ..\..\components\os\./../../includes/./_addr_defined.h
+.\os_fifo.o: ..\..\components\os\./../os/os_task.h
+.\os_fifo.o: ..\..\components\os\./../os/os_heap.h
+.\os_fifo.o: ..\..\components\os\./../os/os_fifo.h
+.\os_fifo.o: ..\..\components\os\./../os/os_simlist.h
+.\os_fifo.o: ..\..\components\os\./../os/os_ipc_msg.h
+.\os_fifo.o: ..\..\components\os\./../os/os_timer.h

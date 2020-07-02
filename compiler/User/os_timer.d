@@ -1,0 +1,10 @@
+.\os_timer.o: ..\..\components\os\os_timer.c
+.\os_timer.o: ..\..\components\os\./os_config.h
+.\os_timer.o: ..\..\components\os\./../../includes/_sys_std.h
+.\os_timer.o: ..\..\components\os\./../../includes/./_addr_defined.h
+.\os_timer.o: ..\..\components\os\./../os/os_task.h
+.\os_timer.o: ..\..\components\os\./../os/os_heap.h
+.\os_timer.o: ..\..\components\os\./../os/os_fifo.h
+.\os_timer.o: ..\..\components\os\./../os/os_simlist.h
+.\os_timer.o: ..\..\components\os\./../os/os_ipc_msg.h
+.\os_timer.o: ..\..\components\os\./../os/os_timer.h

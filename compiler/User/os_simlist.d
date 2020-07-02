@@ -1,0 +1,10 @@
+.\os_simlist.o: ..\..\components\os\os_simlist.c
+.\os_simlist.o: ..\..\components\os\./os_config.h
+.\os_simlist.o: ..\..\components\os\./../../includes/_sys_std.h
+.\os_simlist.o: ..\..\components\os\./../../includes/./_addr_defined.h
+.\os_simlist.o: ..\..\components\os\./../os/os_task.h
+.\os_simlist.o: ..\..\components\os\./../os/os_heap.h
+.\os_simlist.o: ..\..\components\os\./../os/os_fifo.h
+.\os_simlist.o: ..\..\components\os\./../os/os_simlist.h
+.\os_simlist.o: ..\..\components\os\./../os/os_ipc_msg.h
+.\os_simlist.o: ..\..\components\os\./../os/os_timer.h
